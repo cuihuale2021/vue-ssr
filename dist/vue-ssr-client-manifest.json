@@ -1,17 +1,17 @@
 {
   "publicPath": "/dist/",
   "all": [
-    "app.0bc7322a2495558d7194.js"
+    "app.602e1904518c93ce8ccf.js"
   ],
   "initial": [
-    "app.0bc7322a2495558d7194.js"
+    "app.602e1904518c93ce8ccf.js"
   ],
-  "async": [],
+  "async": [],    
   "modules": {
     "183e6a5e": [
       0
     ],
-    "b8250572": [
+    "6fbc4fdc": [
       0
     ]
   }

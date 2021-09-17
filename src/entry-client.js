@@ -4,7 +4,7 @@
  * 
  * */
 import {
-    createApp
+     createApp
 } from './app'
 
 // 客户端特定引导逻辑...
